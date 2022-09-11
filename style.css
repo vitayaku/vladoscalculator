@@ -1,0 +1,31 @@
+h1{
+    font-size:xx-large ;
+    font-family: 'Mulish', sans-serif ;
+}
+.card{
+
+    width: 40%;
+    background: rgb(163, 163, 255);
+    border-radius:8% ;
+    margin: 3%;
+    padding:5px;
+}
+.titul{
+    padding: 2.5%;
+    font-size: x-large;
+    font-weight:normal;
+    font-family: 'Mulish', sans-serif;
+}
+.titul,h2{
+    color:rgb(37, 37, 170) ;
+}
+p{
+    margin: 3px;
+    font-weight: bold;
+}
+h2{
+    font-size:initial;
+}
+h2,p{
+    font-family:'Mulish', sans-serif;
+}
